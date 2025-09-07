@@ -6,7 +6,7 @@ import re
 import logging
 
 # === CONFIG ===
-AFFILIATE_TAG = 'bestdeal03ff2-21'  # Replace with your Amazon affiliate tag
+AFFILIATE_TAG = 'AMAZONE_AFFILIATE_TAG'  # Replace with your Amazon affiliate tag
 SEARCH_KEYWORDS = [
     "iphone 11", "iphone 12", "iphone 13", "iphone 15 pro max", "iphone 16", 
     "samsung phones", "redmi 11", "redmi 12", "vivo phones", "realme phones", 
