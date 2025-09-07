@@ -11,12 +11,12 @@ from googlesearch import search
 from instagrapi import Client
 
 # === CONFIG ===
-BOT_TOKEN = '7506933533:AAFANaQg00Y13bsRRTsggd_ARq0z8YnFac0'
-CHANNEL_USERNAME = '@BestDeals_2_0'  # Bot must be admin in this channel
-AFFILIATE_TAG = 'bestdeal03ff2-21'
+BOT_TOKEN = 'BOT_TOKEN'
+CHANNEL_USERNAME = 'TELEGRAM_CHANNEL_NAME'  # Bot must be admin in this channel
+AFFILIATE_TAG = 'AFFILIATE_TAG'
 
-INSTA_USERNAME = 'greatdeals11'
-INSTA_PASSWORD = 'greatdeal@123'
+INSTA_USERNAME = 'INSTA_USER_NAME'
+INSTA_PASSWORD = 'INSTA_PASSWORD'
 
 SEARCH_KEYWORDS = [
     # Smartphones - Popular Models and Brands
