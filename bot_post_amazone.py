@@ -3,8 +3,8 @@ from telegram import Bot, ParseMode
 from time import sleep
 
 # === CONFIG ===
-BOT_TOKEN = '7506933533:AAFANaQg00Y13bsRRTsggd_ARq0z8YnFac0'
-CHANNEL_USERNAME = '@BestDeals_2_0'  # example: @amazondealsindia
+BOT_TOKEN = 'YOUR_BOT_TOKEN'
+CHANNEL_USERNAME = 'YOUR_CHANNEL_NAME'  # example: @amazondealsindia
 
 # Sample affiliate product list (replace with actual ones)
 product_list = [
