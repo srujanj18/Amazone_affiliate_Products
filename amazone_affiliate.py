@@ -11,9 +11,9 @@ import logging
 import random
 
 # === CONFIG ===
-BOT_TOKEN = "7506933533:AAFANaQg00Y13bsRRTsggd_ARq0z8YnFac0"
-CHANNEL_USERNAME = "@BestDeals_2_0"
-AFFILIATE_TAG = "bestdeal03ff2-21"
+BOT_TOKEN = "TELEGRAM_BOT_TOKEN"
+CHANNEL_USERNAME = "USER_NAME"
+AFFILIATE_TAG = "TAG"
 
 SEARCH_KEYWORDS = {
     "Mobile Phones": ["nokia g42 5g", "realme narzo 70 pro", "oneplus 12r", "xiaomi 14", "samsung m15", "lava blaze curve", "motorola g73", "itel s23 plus"],
